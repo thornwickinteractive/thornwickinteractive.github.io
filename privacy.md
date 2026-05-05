@@ -7,11 +7,6 @@ permalink: /privacy/
 # Privacy Policy
 
 **Effective date:** 2026-05-05
-...
-
-# Privacy Policy
-
-**Effective date:** 2026-05-05
 
 This policy describes how the Fold app ("Fold," "we," "us," "our") handles
 information related to its use. It applies to the iOS app available on the
