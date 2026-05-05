@@ -7,7 +7,7 @@ author: Thornwick Interactive
 # If the repo is named `username.github.io`, leave both as-is.
 # If the repo has any other name (e.g. `fold-site`), set baseurl to `/fold-site`.
 url: https://thornwickinteractive.github.io
-baseurl: "/thornwickinteractive"
+baseurl: ""
 
 # Build settings
 theme: minima
