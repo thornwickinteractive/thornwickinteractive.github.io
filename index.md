@@ -9,4 +9,4 @@ A cozy puzzle game for iOS.
 
 - [Privacy Policy](/privacy/)
 - [Support](/support/)
-- Email: `your-email@example.com`
+- Email: `thornwickinteractive@gmail.com`
